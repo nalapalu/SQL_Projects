@@ -1,4 +1,4 @@
-# SQL Portfolio Projects
+# SQL Projects
 
 Welcome to my SQL Portfolio Projects repository! This collection showcases various SQL projects that I’ve worked on to demonstrate my skills in data analysis, database design, and query optimization. Each project is designed to tackle real-world problems and provide insightful solutions using SQL.
 
@@ -23,7 +23,7 @@ This repository contains SQL scripts and related files for portfolio projects I�
 
 Here is a list of the projects included in this repository:
 
-1. [**Data Manipulation in SQL - Analyzing European Soccer Database**](https://github.com/nalapalu/SQL_portfolio-projects/tree/main/Data%20Manipulation%20in%20SQL%20-%20Analysing%20Football%20database)
+1. [**Data Manipulation in SQL - Analyzing European Soccer Database**](https://github.com/nalapalu/SQL_Projects/tree/main/Data%20Manipulation%20in%20SQL%20-%20Analysing%20Football%20database)
  
    **Objectives**:
    - Manipulate, transform, and make sense of your data
@@ -33,7 +33,7 @@ Here is a list of the projects included in this repository:
    
    **Skills**: CASE statements, simple subqueries, nested and correlated subqueries, common table expressions, window functions
 
-2. [**Joining Data in SQL - Analyzing World Leaders Database**](https://github.com/nalapalu/SQL_portfolio-projects/tree/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database)
+2. [**Joining Data in SQL - Analyzing World Leaders Database**](https://github.com/nalapalu/SQL_Projects/tree/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database)
 
    **Objectives**:
    - Query using table joins and relational set theory
@@ -42,7 +42,7 @@ Here is a list of the projects included in this repository:
 
    **Skills**: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`, `CROSS JOIN`, `UNION`, `UNION ALL`, `INTERSECT`, `EXCEPT`
 
-3. [**PostgreSQL Summary Stats and Window Functions - Summer Olympics Dataset**](https://github.com/nalapalu/SQL_portfolio-projects/tree/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset)
+3. [**PostgreSQL Summary Stats and Window Functions - Summer Olympics Dataset**](https://github.com/nalapalu/SQL_Projects/tree/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset)
 
    **Objectives**:
    - Generate rankings, calculate moving averages and running totals, deduplicate data, and perform time-based analysis
@@ -50,7 +50,7 @@ Here is a list of the projects included in this repository:
 
    **Skills**: `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `LAG`, `LEAD`, `FIRST_VALUE`, `LAST_VALUE`, `NTILE`, `CROSSTAB`, `ROLLUP`, `CUBE`, `STRING_AGG`
 
-4. [**Functions for Manipulating Data in PostgreSQL - Sakila Schema**](https://github.com/nalapalu/SQL_portfolio-projects/tree/main/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL%20-Sakila%20Schema)
+4. [**Functions for Manipulating Data in PostgreSQL - Sakila Schema**](https://github.com/nalapalu/SQL_Projects/tree/main/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL%20-Sakila%20Schema)
 
    **Objectives**:
    - Use built-in PostgreSQL functions to manipulate different data types (strings, numeric, date/time)
@@ -58,27 +58,22 @@ Here is a list of the projects included in this repository:
 
    **Skills**: Date/time functions, text parsing and manipulation, PostgreSQL extensions and full-text search
 
-5. [**Analyzing Students' Mental Health**](https://github.com/nalapalu/SQL_portfolio-projects/blob/main/Analyzing%20Students'%20Mental%20Health/notebook.ipynb)
+5. [**GoogleSQL BigQuery Project Exploring Olist E-Commerce data**](https://github.com/nalapalu/SQL_Projects/tree/main/GoogleSQL-BigQuery-Project-Exploring-Olist-E-Commerce-data)
 
    **Objectives**:
-   - Investigate whether studying in a different country affects mental health
-   - Analyze student data using PostgreSQL to determine influencing factors
 
-   **Skills**: Aggregation functions, filtering, sorting
+   - Study BigQuery’s architecture and structure.
+   - Learn how to write and optimize SQL queries.
+   - Gain hands-on experience with data ingestion and the various data types available in BigQuery Studio.
+   - Utilize advanced features such as Approximate Aggregations, Array and String Manipulation, and Logical Operations.
+   - Work with DML statements to insert, update, delete, and merge data efficiently.
 
-6. [**Analyzing Unicorn Companies**](https://github.com/nalapalu/SQL_portfolio-projects/blob/main/Analyzing%20Unicorn%20Companies/notebook.ipynb)  
-
-   **Objectives**:
-   - Determine which industries produce the highest valuations and analyze the rate of new high-value company emergence
-
-   **Skills**: CTEs, subqueries, aggregations, data formatting
-
----
+   **Skills**: Database Management Systems (e.g.BigQuery, GCP), Google SQL (Structured Query Language)
 
 ## Technologies Used
 
-- SQL (Structured Query Language)
-- Database Management Systems (e.g., MySQL, PostgreSQL, SQL Server)
+- SQL, MySQL, PostgresSQL, GoogleSQL (Structured Query Language)
+- Database Management Systems (e.g., MySQL, PostgreSQL, SQL Server, GCP)
 
 ---
 
@@ -86,7 +81,7 @@ Here is a list of the projects included in this repository:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/nalapalu/SQL_portfolio-projects.git
+   git clone https://github.com/nalapalu/SQL_Projects.git
    ```
 
 2. Explore the folders for each project to see the associated files, scripts, and documentation.
