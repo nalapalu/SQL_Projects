@@ -3,11 +3,11 @@
 This project was done as part of the [Functions for Manipulating Data in PostgreSQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/22733c9d37ae03e75baf41151bc7526e1de8565f) on DataCamp.
 
 #### 📁 Dataset
-> This project uses the Sakila Schema database from Datacamp
+- This project uses the Sakila Schema database from Datacamp
 
 #### 🎯 Objective
-- use built-in PostgreSQL functions in your SQL queries
-- manipulate different types of data including strings, character, numeric and date/time
+- Use built-in PostgreSQL functions in your SQL queries
+- Manipulate different types of data including strings, character, numeric and date/time
 - Use robust full-text search capabilities which provides a powerful tool for indexing and matching keywords in a PostgreSQL document.
 
 #### 🧠 Key Skills Applied
