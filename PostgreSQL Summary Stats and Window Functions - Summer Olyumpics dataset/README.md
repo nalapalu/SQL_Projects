@@ -17,8 +17,8 @@
 #### 🧾 File Descriptions
 | File | Description |
 |------|-------------|
-| [`Queries.sql`](https://github.com/nalapalu/SQL_portfolio-projects/blob/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset/Queries.sql) | Contains all SQL queries used in the analysis |
-| [`summer.csv`](https://github.com/nalapalu/SQL_portfolio-projects/blob/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset/summer.csv) | The dataset used for the project |
+| [`Queries.sql`](https://github.com/nalapalu/SQL_Projects/blob/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset/Queries.sql) | Contains all SQL queries used in the analysis |
+| [`summer.csv`](https://github.com/nalapalu/SQL_Projects/blob/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset/summer.csv) | The dataset used for the project |
 
 #### 💭 Future Ideas / Improvements
 - Build a dashboard in Power BI  
