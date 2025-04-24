@@ -2,7 +2,8 @@
 Data Manipulation in SQL - Analysing European Soccer Database
 
 #### 📁 Dataset
-> This project uses the European Soccer Database From Kaggle.com
+This project uses the European Soccer Database From Kaggle.com
+It contains >12,800 rows of data
 
 #### 🎯 Objective
 - Manipulate, transform, and make the most sense of your data
