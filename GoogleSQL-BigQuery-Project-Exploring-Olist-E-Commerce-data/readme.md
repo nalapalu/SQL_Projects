@@ -29,7 +29,7 @@ In this study we use only a subset of this data that has been modified to fit sp
 #### 🧾 File Descriptions
 | File | Description |
 |------|-------------|
-| [`Queries.sql`](https://github.com/nalapalu/GoogleSQL-BigQuery-Project-Exploring-Olist-E-Commerce-data/blob/main/Queries.sql) | Contains all SQL queries used in the analysis |
+| [`Queries.sql`](https://github.com/nalapalu/SQL_Projects/blob/main/GoogleSQL-BigQuery-Project-Exploring-Olist-E-Commerce-data/Queries.sql) | Contains all SQL queries used in the analysis |
 | [`Dataset`]([https://www.kaggle.com/datasets/hugomathien/soccer](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)) | The dataset used for the project |
 
 ---
