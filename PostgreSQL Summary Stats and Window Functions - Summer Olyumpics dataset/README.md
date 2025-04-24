@@ -1,5 +1,7 @@
 ### 📊 PostgreSQL Summary Stats and Window Functions - Summer Olyumpics dataset
 
+This project was done as part of the [PostgreSQL Summary Stats and Window Functions course](https://www.datacamp.com/completed/statement-of-accomplishment/course/33efff76f2fc11a40c0c6c50fc811e7a28af8c2b) on DataCamp.
+
 #### 📁 Dataset
 > This project uses the Summer olympics Database from Datacamp
 
