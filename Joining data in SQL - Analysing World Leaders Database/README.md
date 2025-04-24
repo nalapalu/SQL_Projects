@@ -16,7 +16,7 @@
 #### 🧾 File Descriptions
 | File | Description |
 |------|-------------|
-| [`Queries.sql`](https://github.com/nalapalu/SQL_portfolio-projects/blob/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database/Queries.sql) | Contains all SQL queries used in the analysis |
+| [`Queries.sql`](https://github.com/nalapalu/SQL_Projects/blob/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database/Queries.sql) | Contains all SQL queries used in the analysis |
 | `countries` | The dataset used for the project |
 | `leaders` | The dataset used for the project |
 
