@@ -21,7 +21,7 @@ It contains >12,800 rows of data
 #### 🧾 File Descriptions
 | File | Description |
 |------|-------------|
-| [`Queries.sql`](https://github.com/nalapalu/SQL_portfolio-projects/blob/main/Data%20Manipulation%20in%20SQL%20-%20Analysing%20Football%20database/Queries.sql) | Contains all SQL queries used in the analysis |
+| [`Queries.sql`](https://github.com/nalapalu/SQL_Projects/blob/main/Data%20Manipulation%20in%20SQL%20-%20Analysing%20Football%20database/Queries.sql) | Contains all SQL queries used in the analysis |
 | [`Soccer DB`](https://www.kaggle.com/datasets/hugomathien/soccer) | The dataset used for the project |
 
 #### 💭 Future Ideas / Improvements
