@@ -1,7 +1,8 @@
 ### 📊 
 Data Manipulation in SQL - Analysing European Soccer Database
 
-Ths project was done as part of the [Data Manipulation in SQL course](https://app.datacamp.com/learn/courses/data-manipulation-in-sql) on DataCamp.
+This project was done as part of the [Data Manipulation in SQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/99be9a282a36d7e7c7c4c84ce2a114e343a02039) on DataCamp.  
+
 #### 📁 Dataset
 This project uses the European Soccer Database From Kaggle.com
 It contains >12,800 rows of data
