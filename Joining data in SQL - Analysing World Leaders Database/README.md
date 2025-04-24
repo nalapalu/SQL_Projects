@@ -1,6 +1,6 @@
 ### 📊 Joining data in SQL - Analysing World Leaders Database
 
-Ths project was done as part of the [Joining Data in SQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/564eb43f916d369c3501c075b76db14f138605d1) on DataCamp.
+This project was done as part of the [Joining Data in SQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/564eb43f916d369c3501c075b76db14f138605d1) on DataCamp.
 
 #### 📁 Dataset
 > This project uses the world leaders database from Datacamp
