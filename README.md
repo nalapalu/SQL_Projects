@@ -25,7 +25,7 @@ Here is a list of the projects included in this repository:
 
 1. [**Data Manipulation in SQL - Analyzing European Soccer Database**](https://github.com/nalapalu/SQL_Projects/tree/main/Data%20Manipulation%20in%20SQL%20-%20Analysing%20Football%20database)
  
-Ths project was done as part of the [Data Manipulation in SQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/99be9a282a36d7e7c7c4c84ce2a114e343a02039) on DataCamp.  
+This project was done as part of the [Data Manipulation in SQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/99be9a282a36d7e7c7c4c84ce2a114e343a02039) on DataCamp.  
 
    **Objectives**:
    - Manipulate, transform, and make sense of your data
@@ -43,7 +43,7 @@ Ths project was done as part of the [Data Manipulation in SQL course](https://ww
 
 2. [**Joining Data in SQL - Analyzing World Leaders Database**](https://github.com/nalapalu/SQL_Projects/tree/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database)
 
-Ths project was done as part of the [Joining Data in SQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/564eb43f916d369c3501c075b76db14f138605d1) on DataCamp.
+This project was done as part of the [Joining Data in SQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/564eb43f916d369c3501c075b76db14f138605d1) on DataCamp.
 
    **Objectives**:
    - Query using table joins and relational set theory
@@ -58,7 +58,7 @@ Ths project was done as part of the [Joining Data in SQL course](https://www.dat
 
 3. [**PostgreSQL Summary Stats and Window Functions - Summer Olympics Dataset**](https://github.com/nalapalu/SQL_Projects/tree/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset)
 
-Ths project was done as part of the [PostgreSQL Summary Stats and Window Functions course](https://www.datacamp.com/completed/statement-of-accomplishment/course/33efff76f2fc11a40c0c6c50fc811e7a28af8c2b) on DataCamp.
+This project was done as part of the [PostgreSQL Summary Stats and Window Functions course](https://www.datacamp.com/completed/statement-of-accomplishment/course/33efff76f2fc11a40c0c6c50fc811e7a28af8c2b) on DataCamp.
 
    **Objectives**:
    - Generate rankings, calculate moving averages and running totals, deduplicate data, and perform time-based analysis
@@ -71,7 +71,7 @@ Ths project was done as part of the [PostgreSQL Summary Stats and Window Functio
 
 4. [**Functions for Manipulating Data in PostgreSQL - Sakila Schema**](https://github.com/nalapalu/SQL_Projects/tree/main/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL%20-Sakila%20Schema)
 
-Ths project was done as part of the [Functions for Manipulating Data in PostgreSQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/22733c9d37ae03e75baf41151bc7526e1de8565f) on DataCamp.
+This project was done as part of the [Functions for Manipulating Data in PostgreSQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/22733c9d37ae03e75baf41151bc7526e1de8565f) on DataCamp.
 
    **Objectives**:
    - Use built-in PostgreSQL functions to manipulate different data types (strings, numeric, date/time)
@@ -84,7 +84,7 @@ Ths project was done as part of the [Functions for Manipulating Data in PostgreS
 
 5. [**GoogleSQL BigQuery Project Exploring Olist E-Commerce data**](https://github.com/nalapalu/SQL_Projects/tree/main/GoogleSQL-BigQuery-Project-Exploring-Olist-E-Commerce-data)
 
-Ths project was done as part of the [GoogleSQL BigQuery Project Exploring Olist E-Commerce data course](https://www.datacamp.com/completed/statement-of-accomplishment/course/ac778ba342740d77a66b5f82f01358ee04d2a05f) on DataCamp.
+This project was done as part of the [GoogleSQL BigQuery Project Exploring Olist E-Commerce data course](https://www.datacamp.com/completed/statement-of-accomplishment/course/ac778ba342740d77a66b5f82f01358ee04d2a05f) on DataCamp.
 
    **Objectives**:
 
