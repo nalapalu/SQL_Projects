@@ -3,7 +3,7 @@
 This project was done as part of the [Joining Data in SQL course](https://www.datacamp.com/completed/statement-of-accomplishment/course/564eb43f916d369c3501c075b76db14f138605d1) on DataCamp.
 
 #### 📁 Dataset
-This project uses the world leaders database from Datacamp
+This project uses the world leaders database from Datacamp. Contains >1000 rows of data.
 
 #### 🎯 Objective
 - Query using table joins and relational set theory in this course on joining data
