@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this project, I explored the capabilities of BigQuery using GoogleSQL on the Olist E-Commerce dataset. This project was done as part of the [GoogleSQL BigQuery Project Exploring Olist E-Commerce data course](https://www.datacamp.com/completed/statement-of-accomplishment/course/ac778ba342740d77a66b5f82f01358ee04d2a05f) on DataCamp.
+In this project, I explored the capabilities of BigQuery using GoogleSQL on the Olist E-Commerce dataset. This project was done as part of the [Introduction to BigQuery course](https://www.datacamp.com/completed/statement-of-accomplishment/course/ac778ba342740d77a66b5f82f01358ee04d2a05f) on DataCamp.
 
 - Studied BigQuery’s architecture and structure.
 - Learned how to write and optimize SQL queries.
