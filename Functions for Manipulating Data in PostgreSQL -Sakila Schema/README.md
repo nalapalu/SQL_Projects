@@ -29,7 +29,7 @@
 #### 🧾 File Descriptions
 | File | Description |
 |------|-------------|
-| [`Queries.sql`](https://github.com/nalapalu/SQL_portfolio-projects/blob/main/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL%20-Sakila%20Schema/Queries.sql) | Contains all SQL queries used in the analysis |
+| [`Queries.sql`](https://github.com/nalapalu/SQL_Projects/blob/main/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL%20-Sakila%20Schema/Queries.sql) | Contains all SQL queries used in the analysis |
 | `postgres-sakila-incremental-schema_06172019.sql` | The dataset used for the project |
 
 
