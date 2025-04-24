@@ -84,7 +84,7 @@ This project was done as part of the [Functions for Manipulating Data in Postgre
 
 5. [**GoogleSQL BigQuery Project Exploring Olist E-Commerce data**](https://github.com/nalapalu/SQL_Projects/tree/main/GoogleSQL-BigQuery-Project-Exploring-Olist-E-Commerce-data)
 
-This project was done as part of the [GoogleSQL BigQuery Project Exploring Olist E-Commerce data course](https://www.datacamp.com/completed/statement-of-accomplishment/course/ac778ba342740d77a66b5f82f01358ee04d2a05f) on DataCamp.
+This project was done as part of the [Introduction to BigQuery course](https://www.datacamp.com/completed/statement-of-accomplishment/course/ac778ba342740d77a66b5f82f01358ee04d2a05f) on DataCamp.
 
    **Objectives**:
 
