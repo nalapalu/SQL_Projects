@@ -3,7 +3,7 @@
 This project was done as part of the [PostgreSQL Summary Stats and Window Functions course](https://www.datacamp.com/completed/statement-of-accomplishment/course/33efff76f2fc11a40c0c6c50fc811e7a28af8c2b) on DataCamp.
 
 #### 📁 Dataset
-This project uses the Summer olympics Database from Datacamp
+This project uses the Summer olympics Database from Datacamp. Contains > 31,000 rows of data.
 
 #### 🎯 Objective
 - Generating rankings, calculating moving averages and running totals, deduplicating data, or performing time intelligence
