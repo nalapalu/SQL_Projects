@@ -32,12 +32,14 @@ Here is a list of the projects included in this repository:
    - Use CASE statements, subqueries, and window functions
 
    **Data**
-   This project uses the European Soccer Database From Kaggle.com. [Data](https://www.kaggle.com/datasets/hugomathien/soccer)
+   
+   This project uses the European Soccer Database From Kaggle.com (>12,800 rows of data). [Data](https://www.kaggle.com/datasets/hugomathien/soccer)
+
 
 
    **Skills**: CASE statements, simple subqueries, nested and correlated subqueries, common table expressions, window functions
 
-2. [**Joining Data in SQL - Analyzing World Leaders Database**](https://github.com/nalapalu/SQL_Projects/tree/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database)
+3. [**Joining Data in SQL - Analyzing World Leaders Database**](https://github.com/nalapalu/SQL_Projects/tree/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database)
 
    **Objectives**:
    - Query using table joins and relational set theory
@@ -46,33 +48,33 @@ Here is a list of the projects included in this repository:
 
 
    **Data**
-  This project uses the world leaders database from Datacamp. [Data](https://github.com/nalapalu/SQL_Projects/tree/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database)
+  This project uses the world leaders database from Datacamp(>1000 rows of data). [Data](https://github.com/nalapalu/SQL_Projects/tree/main/Joining%20data%20in%20SQL%20-%20Analysing%20World%20Leaders%20Database)
    
    **Skills**: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`, `CROSS JOIN`, `UNION`, `UNION ALL`, `INTERSECT`, `EXCEPT`
 
-3. [**PostgreSQL Summary Stats and Window Functions - Summer Olympics Dataset**](https://github.com/nalapalu/SQL_Projects/tree/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset)
+4. [**PostgreSQL Summary Stats and Window Functions - Summer Olympics Dataset**](https://github.com/nalapalu/SQL_Projects/tree/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset)
 
    **Objectives**:
    - Generate rankings, calculate moving averages and running totals, deduplicate data, and perform time-based analysis
    - Create queries for analytics and data engineering using window functions
 
    **Data**
-   This project uses the Summer olympics Database from Datacamp. [Data](https://github.com/nalapalu/SQL_Projects/blob/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset/summer.csv)
+   This project uses the Summer olympics Database from Datacamp(>31,000 rows of data). [Data](https://github.com/nalapalu/SQL_Projects/blob/main/PostgreSQL%20Summary%20Stats%20and%20Window%20Functions%20-%20Summer%20Olyumpics%20dataset/summer.csv)
    
    **Skills**: `ROW_NUMBER`, `RANK`, `DENSE_RANK`, `LAG`, `LEAD`, `FIRST_VALUE`, `LAST_VALUE`, `NTILE`, `CROSSTAB`, `ROLLUP`, `CUBE`, `STRING_AGG`
 
-4. [**Functions for Manipulating Data in PostgreSQL - Sakila Schema**](https://github.com/nalapalu/SQL_Projects/tree/main/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL%20-Sakila%20Schema)
+5. [**Functions for Manipulating Data in PostgreSQL - Sakila Schema**](https://github.com/nalapalu/SQL_Projects/tree/main/Functions%20for%20Manipulating%20Data%20in%20PostgreSQL%20-Sakila%20Schema)
 
    **Objectives**:
    - Use built-in PostgreSQL functions to manipulate different data types (strings, numeric, date/time)
    - Implement full-text search capabilities
 
    **Data**
-   This project uses the Sakila Schema database from Datacamp.
+   This project uses the Sakila Schema database from Datacamp. (>1000 rows of data)
    
    **Skills**: Date/time functions, text parsing and manipulation, PostgreSQL extensions and full-text search
 
-5. [**GoogleSQL BigQuery Project Exploring Olist E-Commerce data**](https://github.com/nalapalu/SQL_Projects/tree/main/GoogleSQL-BigQuery-Project-Exploring-Olist-E-Commerce-data)
+6. [**GoogleSQL BigQuery Project Exploring Olist E-Commerce data**](https://github.com/nalapalu/SQL_Projects/tree/main/GoogleSQL-BigQuery-Project-Exploring-Olist-E-Commerce-data)
 
    **Objectives**:
 
@@ -83,7 +85,7 @@ Here is a list of the projects included in this repository:
    - Work with DML statements to insert, update, delete, and merge data efficiently.
 
    **Data**
-   This project uses the Brazilian E-Commerce Public Dataset by Olist fromm Kaggle. [Data](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)) 
+   This project uses the Brazilian E-Commerce Public Dataset by Olist fromm Kaggle.(100k rows of data) [Data](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)) 
 
    **Skills**: Database Management Systems (e.g.BigQuery, GCP), Google SQL (Structured Query Language)
 
